@@ -1,0 +1,7 @@
+G:\c#.netPrograms\ConsoleSerializableAbstra\ConsoleSerializableAbstra\obj\Debug\ConsoleSerializableAbstra.csprojAssemblyReference.cache
+G:\c#.netPrograms\ConsoleSerializableAbstra\ConsoleSerializableAbstra\obj\Debug\ConsoleSerializableAbstra.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\ConsoleSerializableAbstra\ConsoleSerializableAbstra\bin\Debug\ConsoleSerializableAbstra.exe.config
+G:\c#.netPrograms\ConsoleSerializableAbstra\ConsoleSerializableAbstra\bin\Debug\ConsoleSerializableAbstra.exe
+G:\c#.netPrograms\ConsoleSerializableAbstra\ConsoleSerializableAbstra\bin\Debug\ConsoleSerializableAbstra.pdb
+G:\c#.netPrograms\ConsoleSerializableAbstra\ConsoleSerializableAbstra\obj\Debug\ConsoleSerializableAbstra.exe
+G:\c#.netPrograms\ConsoleSerializableAbstra\ConsoleSerializableAbstra\obj\Debug\ConsoleSerializableAbstra.pdb
